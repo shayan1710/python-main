@@ -8,3 +8,4 @@ print("Give yourself time to heal, Not an excuse to start from tomorrow....!")
 
 # You can run the python code by the play button of computer.
 # Also you can write >> python <file_name> << in the terminal from the directory where the file is present. 
+# the finals
